@@ -1,9 +1,19 @@
 # main links
 main:
+  - title: "Home"
+    url: /
   - title: "About"
     url: /about/
   - title: "Research"
     url: /research/
+  - title: "Group Members"
+    url: /members/
+  - title: "Publications"
+    url: /publications/
+  - title: "Activities"
+    url: /activities/
+  - title: "Contact"
+    url: /contact/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
