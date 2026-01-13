@@ -1,9 +1,3 @@
-
----
-layout: home
-title: "ComplexityNAS"
----
-
 # Welcome to ComplexityNAS
 
 We are a research group focusing on **complex systems** and **networked autonomous systems**.
